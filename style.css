@@ -1,0 +1,22 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+   
+    
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+#calc {
+	background: rgb(7, 7, 7);
+}
+.btn {
+	background: #1c47ca;
+	border: 1px solid black;
+	color: rgb(255, 255, 255);
+}
+#btn_clr {
+	background: rgb(238, 12, 12);
+}
